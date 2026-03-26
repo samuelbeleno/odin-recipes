@@ -1,0 +1,66 @@
+h1 {
+    text-align: center;
+    color: brown;
+    margin-bottom: 60px;
+}
+
+body {
+    box-sizing: border-box;
+    background-color: floralwhite;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+.menu-container {
+    background-color: oldlace;
+    height: 700px;
+    width: 350px;
+    box-sizing: border-box;
+    padding-right: 10px;
+}
+
+.menu-title {
+    color: saddlebrown;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 100px;
+}
+
+.menu-recipes {
+    background-color: peachpuff;
+    margin: 15px;
+    height: 300px;
+    box-sizing: border-box;
+    padding-top: 50px;
+    border: solid burlywood;
+}
+.recipes {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+}
+
+#para-1, #para-2 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#para-2 {
+    padding-bottom: 30px;
+}
+
+#ajiaco-index {
+    max-width: 600px;
+    box-sizing: border-box;
+    float: left;
+
+}
+
+.striking-img {
+    border: solid burlywood;
+    max-width: 645px;
+    max-height: 360px;
+    box-sizing: border-box;
+    margin-left: 1100px;
+    margin-top: -600px;
+}
