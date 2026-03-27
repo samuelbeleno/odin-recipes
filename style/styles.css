@@ -9,6 +9,7 @@ body {
     background-color: floralwhite;
     padding-left: 20px;
     padding-right: 20px;
+    font-family: sans-serif;
 
 }
 .menu-container {
@@ -64,3 +65,129 @@ body {
     margin-left: 1100px;
     margin-top: -600px;
 }
+
+.ajiaco {
+    width: 600px;
+    margin-left: auto;
+
+}
+
+#ensalada-rusa {
+    width: 600px;
+    margin-left: auto;
+}
+
+#huevos {
+    width: 500px;
+    margin-left: auto;
+}
+
+#torta  {
+    width: 600px;
+    margin-left: auto;
+}
+
+.titulo-descripcion {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.titulo-ingredientes {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.titulo-preparacion {
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.descripcion-ajiaco, .descripcion-ensalada, .descripcion-huevos, .descripcion-torta {
+    background-color: antiquewhite;
+    box-sizing: border-box;
+    border: solid wheat;
+    border-radius: 15px;
+}
+
+.descripcion-ajiaco, .descripcion-torta, .descripcion-ensalada {
+    margin-bottom: 20px;
+    width: 1050px;
+    height: 200px;
+    padding: 10px;
+    margin-top: -300px;
+}
+
+.descripcion-huevos {
+    margin-bottom: 20px;
+    width: 1000px;
+    height: 150px;
+    padding: 10px;
+    margin-top: -300px;
+}
+
+
+.ingredientes-ajiaco, .ingredientes-ensalada, .ingredientes-huevos, .ingredientes-torta {
+    box-sizing: border-box;
+    background-color: bisque;
+    border: solid burlywood;
+    border-radius: 8%;
+}
+
+.ingredientes-ajiaco {
+    margin-top: 200px;
+    width: 400px;
+    padding: 12px;
+}
+
+.ingredientes-ensalada {
+    margin-top: 200px;
+    width: 450px;
+    padding: 12px;
+}
+
+.ingredientes-huevos {
+    margin-top: 200px;
+    width: 350px;
+    padding: 12 px;
+}
+
+.ingredientes-torta {
+    margin-top: 200px;
+    width: 500px;
+    padding: 15px;
+}
+
+.preparacion-ajiaco, .preparacion-ensalada, .preparacion-huevos, .preparacion-torta {
+    box-sizing: border-box;
+    background-color: white;
+    border: solid burlywood;
+    border-radius: 15px;
+}
+
+.preparacion-ajiaco {
+    width: 800px;
+    margin-left: auto;
+    margin-top: -350px;
+
+}
+
+.preparacion-ensalada {
+    margin-left: auto;
+    width: 700px;
+    margin-top: -350px;
+
+}
+
+.preparacion-huevos {
+    margin-left: auto;
+    width: 700px;
+    padding: 15px;
+    margin-top: -200px;
+
+}
+
+.preparacion-torta {
+    margin-left: auto;
+    width: 600px;
+    margin-top: -350px;
+}   
